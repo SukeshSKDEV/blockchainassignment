@@ -1,3 +1,5 @@
+// 3. Give an example of a Higher Order function and a call back function used in the same program.
+// Answer :
 // Higher Order Function
 const transformation = function (str, fn) {
   console.log(`Original string is : ${str}`);

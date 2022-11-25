@@ -18,6 +18,6 @@ contract removeArray{
             nums[i]=nums[i+1];    // shifting each element from right to left after removing element
         }
 
-        nums.pop(); // remove last empty element
-    }
+        nums.pop(); // remove last duplicate element
+    } 
 }
